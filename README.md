@@ -143,9 +143,7 @@ In order to produce a uniquely identifiable distribution:
 Feedstock Maintainers
 =====================
 
+* [@conrade-ctc](https://github.com/conrade-ctc/)
 * [@e7b7](https://github.com/e7b7/)
 * [@saschwartz](https://github.com/saschwartz/)
-
-
-<!-- dummy commit to enable rerendering -->
 
