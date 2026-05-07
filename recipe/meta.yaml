@@ -1,5 +1,5 @@
 {% set name = "prefect-azure" %}
-{% set version = "0.4.8" %}
+{% set version = "0.4.10" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/{{ name[0] }}/{{ name }}/prefect_azure-{{ version }}.tar.gz
-  sha256: 235239e3526aac1c3704e34467bb2f0c969f147c06b7297e04eb59eebbbf4952
+  sha256: c4e2f1fbc6f70db595637377842987c393d293c2d7f3ff3a09056ece0beadff9
 
 build:
   noarch: python
